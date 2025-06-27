@@ -1,0 +1,1 @@
+- Final projects files for CS50SQL, started in May 2025 and completed in May 2025.
